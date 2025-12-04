@@ -1,8 +1,8 @@
 # 🔫 Hawaiʻi Gun Violence Analysis (2014–2024)
-**Author:** Johnny Bae  
-**Course:** DS495 — Data Science Research  
-**Institution:** Chaminade University of Honolulu  
-**Instructor:** Dr. Rylan Chong  
+Johnny Bae  
+DS495 — Data Science Research  
+Chaminade University of Honolulu  
+
 
 A data-driven exploration of firearm violence trends in the U.S., with a focused analysis on Hawaiʻi.  
 Includes national patterning, per-capita context, forecasting using linear regression, and prevention-oriented recommendations.
